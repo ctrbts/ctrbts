@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&layout=compact&langs_count=10&theme=swift" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&layout=compact&langs_count=8&theme=swift" />
 </a>
