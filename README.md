@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/?username=ctrbts&count_private=true&theme=calm&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/?username=ctrbts&count_private=true&theme=transparent&show_icons=true" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&layout=compact&langs_count=8&theme=nord" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&layout=compact&langs_count=8&theme=transparent" />
 </a>
