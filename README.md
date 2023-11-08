@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
--->
 
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/?username=ctrbts&count_private=true&theme=transparent&show_icons=true" />
@@ -24,4 +23,4 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&layout=compact&langs_count=8&theme=transparent" />
 </a>
-
+-->
