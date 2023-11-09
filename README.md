@@ -1,5 +1,6 @@
 ![ctrbts's Stats](https://github-readme-stats.vercel.app/api?username=ctrbts&theme=default&show_icons=true&hide_border=true&count_private=true)
-
+![ctrbts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrbts&theme=default&hide_border=true)
+![ctrbts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **ctrbts/ctrbts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
