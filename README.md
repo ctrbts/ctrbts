@@ -1,9 +1,4 @@
-![ctrbts's Stats](https://github-readme-stats.vercel.app/api?username=ctrbts&theme=default&show_icons=true&hide_border=true&count_private=true)
-![ctrbts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrbts&theme=default&hide_border=true)
-![ctrbts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&theme=default&show_icons=true&hide_border=true&layout=compact)
-
 <!--
-**ctrbts/ctrbts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -16,6 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+![ctrbts's Stats](https://github-readme-stats.vercel.app/api?username=ctrbts&theme=default&show_icons=true&hide_border=true&count_private=true)
+![ctrbts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrbts&theme=default&hide_border=true)
+![ctrbts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
@@ -26,4 +27,3 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&layout=compact&langs_count=8&theme=transparent" />
 </a>
--->
