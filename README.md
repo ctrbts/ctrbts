@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![ctrbts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrbts&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Frontend>-<Backend>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/?username=ctrbts&count_private=true&theme=transparent&show_icons=true" />
