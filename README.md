@@ -1,18 +1,18 @@
 <h1>Hi there, I'm Fernando 👋</h1>
-<h3>Sysadmin | Full Stack Developer | AI & Data Science</h3>
+<h3>Sysadmin | Full Stack Developer | Transitioning to AI & Data Science</h3>
 
 <br/>
 
 <p>
-  I specialize in modernizing legacy infrastructure and developing robust web applications. My current focus is bridging the gap between traditional systems administration and modern AI-driven development. With over 20 years of experience as a Sysadmin and Full Stack Developer, I am currently leading the migration of legacy systems to modern architectures using Python and Django.
+  I'm a developer and sysadmin with over 20 years of experience, now bridging the gap between traditional infrastructure and modern AI-driven development. I believe in continuous learning: I apply my deep background in systems to build robust, scalable architectures for Data Science and Web Apps.
 </p>
 
 <br/>
 
-- 🔭 **I’m currently working on:** Migrating enterprise PHP apps to **Python/Django**.
-- 🎓 **Studying:** Data Science & AI at **UNLP**.
-- ⚙️ **Infrastructure:** Expert in **Proxmox** & Linux environments.
-- 🐧 **Open Source:** Enthusiast of virtualization and open source solutions.
+- 🔭 **Current Focus:** Modernizing legacy PHP ecosystems to **Python/Django**.
+- 🎓 **Academic Path:** Pursuing a degree in **Data Science & AI at UNLP**.
+- ⚙️ **Infrastructure:** Specialized in virtualization with **Proxmox** & Linux containers (LXC).
+- 🐧 **Philosophy:** Open Source advocate and lifelong learner.
 
 <br/>
 
