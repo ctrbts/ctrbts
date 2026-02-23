@@ -1,10 +1,10 @@
 <h1>Hi there, I'm Fernando 👋</h1>
-<h3>Sysadmin | Full Stack Developer | Transitioning to AI & Data Science</h3>
+<h3>Sysadmin | Full Stack Developer | AI & Data Science</h3>
 
 <br/>
 
 <p>
-  I'm a developer and sysadmin with over 20 years of experience, now bridging the gap between traditional infrastructure and modern AI-driven development. I believe in continuous learning: I apply my deep background in systems to build robust, scalable architectures for Data Science and Web Apps.
+  I'm a developer and sysadmin with over 15 years of experience, now bridging the gap between traditional infrastructure and modern AI-driven development. I believe in continuous learning: I apply my deep background in systems to build robust, scalable architectures for Data Science and Web Apps.
 </p>
 
 <br/>
