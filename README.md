@@ -9,12 +9,14 @@
 
 <br/>
 
+<!--
 - 🔭 **Current Focus:** Modernizing legacy PHP ecosystems to **Python/Django**.
 - 🎓 **Academic Path:** Pursuing a degree in **Data Science & AI at UNLP**.
 - ⚙️ **Infrastructure:** Specialized in virtualization with **Proxmox** & Linux containers (LXC).
 - 🐧 **Philosophy:** Open Source advocate and lifelong learner.
 
 <br/>
+-->
 
 ### 🛠️ Technologies & Tools
 
