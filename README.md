@@ -4,7 +4,7 @@
 <br/>
 
 <p>
-  I'm a developer and sysadmin with over 15 years of experience, now bridging the gap between traditional infrastructure and modern AI-driven development. I believe in continuous learning: I apply my deep background in systems to build robust, scalable architectures for Data Science and Web Apps.
+  I'm a developer and sysadmin with over 20 years of experience, now bridging the gap between traditional infrastructure and modern AI-driven development. I believe in continuous learning: I apply my deep background in systems to build robust, scalable architectures for Data Science and Web Apps.
 </p>
 
 <br/>
